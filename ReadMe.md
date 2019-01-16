@@ -1,4 +1,4 @@
-# DSP ReadMe
+# myShazam
 
 ## How to build data set?
 1. Put all the songs in ```./song_source```
