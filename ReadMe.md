@@ -4,7 +4,6 @@
 1. Put all the songs in ```./song_source```
 2. ```make build```
 
-You could also download ```musics``` and ```corresponding files``` at [here](https://drive.google.com/open?id=1n3FMoOwPJrbQlWyF1pF1WiOHc18GDVfE ).
 
 ## How to record?
 ```
